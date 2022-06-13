@@ -9,6 +9,11 @@
     padding-left: 10px;
     padding-bottom: 20px;
 }
+.box{
+    width: 20px;
+    height: 20px;
+    border: 2px solid blue;
+}
 .container-1{
     width: 250px;
     height: 150px;
@@ -16,12 +21,6 @@
     display: flex;
     margin: 10px;
 }
-.box-1{
-    width: 20px;
-    height: 20px;
-    border: 2px solid blue;
-}
-
 .container-2{
     width: 250px;
     height: 150px;
@@ -30,26 +29,13 @@
     display: flex;
     justify-content: flex-start;
 }
-.box-2{
-    width: 20px;
-    height: 20px;
-    border: 2px solid blue;
-
-}
 .container-3{
     width: 250px;
     height: 150px;
     border: 2px solid red;
     margin: 10px;
     display: flex;
-    justify-content: space-around;
 }
-.box-3{
-    width: 20px;
-    height: 20px;
-    border: 2px solid blue;
-}
-
 .container-4{
     width: 250px;
     height: 150px;
@@ -58,12 +44,6 @@
     display: flex;
     justify-content: space-between;
 }
-.box-4{
-    width: 20px;
-    height: 20px;
-    border: 2px solid blue;
-}
-
 .container-5{
     width: 250px;
     height: 150px;
@@ -71,11 +51,6 @@
     margin: 10px;
     display: flex;
     justify-content: center;
-}
-.box-5{
-    width: 20px;
-    height: 20px;
-    border: 2px solid blue;
 }
 .container-6{
     width: 250px;
@@ -85,11 +60,6 @@
     display: flex;
     align-items: flex-start;
 }
-.box-6{
-    width: 20px;
-    height: 20px;
-    border: 2px solid blue;
-}
 .container-7{
     width: 250px;
     height: 150px;
@@ -98,11 +68,6 @@
     display: flex;
     align-items: flex-end;
 }
-.box-7{
-    width: 20px;
-    height: 20px;
-    border: 2px solid blue;
-}
 .container-8{
     width: 250px;
     height: 150px;
@@ -110,9 +75,4 @@
     margin: 10px;
     display: flex;
     align-items: center;
-}
-.box-8{
-    width: 20px;
-    height: 20px;
-    border: 2px solid blue;
 }
